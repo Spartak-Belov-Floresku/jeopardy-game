@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css2?family=Bangers&display=swap);
+*{
+	border:none;
+	outline:none;
+	font-weight:200;
+	margin:0;
+	padding:0
+}
+body{
+	text-align:center;
+	font-family:Arial, Verdana, Sans-serif;
+	font-size:12px;
+  background-color: rgb(0, 118, 173);
+  transition: background-color 10s;
+  text-align: center;
+}
+.load{
+  background: transparent url(https://i.gifer.com/ZZ5H.gif) no-repeat center 1000%;
+  background-size:7%;
+}
+.header{
+  font-family: 'Bangers', cursive;
+  margin: 1% 0 1%;
+  font-size:40px;
+  text-shadow: 5px 5px 8px rgb(42, 47, 49);
+  color:steelblue;
+}
+#restart{
+	box-shadow:inset 0px 1px 0px 0px #a6827e;
+  box-shadow:2px 2px 8px rgba(0,0,0,.5);
+	background:linear-gradient(to bottom, #7d5d3b 5%, #634b30 100%);
+	background-color:#7d5d3b;
+	border-radius:3px;
+	border:1px solid #54381e;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Bangers', cursive;
+	font-size:22px;
+	padding:12px 34px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #4d3534;
+}
+#restart:hover {
+	background:linear-gradient(to bottom, #634b30 5%, #7d5d3b 100%);
+	background-color:#634b30;
+}
+#restart:active{
+	position:relative;
+  box-shadow:1px 1px 5px #141313;
+	top:1px;
+}
+.playground{
+  margin: 0% auto 2em;
+  width:1000px;
+  padding: 1em;
+  background:skyblue;
+  box-shadow: 20px 20px rgba(0,0,0,.15);
+  border-radius: 5px;
+  border: solid 3px cadetblue;
+}
+table{
+  width:98%;
+  margin:0 auto;
+}
+th,td{
+  width: 15%;
+  height: 100px ;
+  border: solid 1px #2141f5;
+  border-width:5px;  
+  border-style:outset;
+  background-color:#2141f5;
+  text-transform: capitalize;
+  color:whitesmoke;
+  text-shadow: 2px 2px 7px rgb(0,0,0);
+  font-weight: 400;
+  font-size: 12px;
+  padding:0 5px;
+  cursor: pointer;
+}
+th{
+  vertical-align: middle;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: auto;
+}
+td>span{
+  padding:3px 12px;
+  color:black;
+  background:white;
+  border-radius: 50%;
+  font-weight: 900;
+  text-shadow: 0px 0px 0px rgb(0,0,0);
+  font-size: 22px;
+}
