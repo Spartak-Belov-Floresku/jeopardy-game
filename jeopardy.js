@@ -11,7 +11,7 @@ let categories = [];
  * Returns array of category ids
  */
 async function getCategoryIds() {
-    const result = await axios.get(apiURL+'categories',{params:{count:100}});
+    const result = await axios.get(`${apiURL}categories`,{params:{count:100}});
         const arrIds = result.data.map( el => el.id)
     return shufflArray(arrIds, CATEGORIES);
 }
