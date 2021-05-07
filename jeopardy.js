@@ -30,7 +30,7 @@ async function getCategoryIds() {
  *   ]
  */
 async function getCategory(catId) {
-    const result = await axios.get(apiURL+'category',{params:{id:catId}});
+    const result = await axios.get(`${apiURL}category`,{params:{id:catId}});
     return {title: result.data.title, clues: shufflArray(result.data.clues, QUESTIONS)};
 }
 
