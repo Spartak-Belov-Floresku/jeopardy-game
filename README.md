@@ -4,6 +4,6 @@ Jeopardy! is one of the longest running game shows in American history. It has b
 
 To run this game you can do it by running your local server or simply by opening the index.html file in your Chrome browser.
 
-<img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/jeopardy-game/main/img/GamesSreenshot.png?token=AMK6ROGIBFUBC42J2FIONPLAULUWU">
+<img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/jeopardy-game/main/img/GamesSreenshot.png?token=AMK6ROHWT2M3PXWEAF4PZZ3AULWJO">
 
 <img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/jeopardy-game/main/img/LoadingGamesSreenshot.png?token=AMK6ROGGQASBHICMLU5G76TAULU32">
