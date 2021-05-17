@@ -6,4 +6,4 @@ To run this game you can do it by running your local server or simply by opening
 
 <img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/jeopardy-game/main/img/GamesSreenshot.png?token=AMK6ROHWT2M3PXWEAF4PZZ3AULWJO">
 
-<img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/jeopardy-game/main/img/LoadingGamesSreenshot.png?token=AMK6ROGGQASBHICMLU5G76TAULU32">
+<img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/jeopardy-game/main/img/LoadingGamesSreenshot.png?token=AMK6RODRBHZ22S2BT6J6WR3AULWLK">
